@@ -10,7 +10,7 @@ theme = "nofancy"
 [params]
 	# See themes/nofancy/static/highlight/styles for available options
 	# i.e. "default", "github", "monokai".
-	highlight="monokai"
+	highlight="github-gist"
 	
 	# Controls what items are listed in the top nav menu
 	# "none", or "categories"
