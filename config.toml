@@ -1,8 +1,8 @@
-baseURL = "http://jadetao.github.io/"
+baseURL = "https://blog.jader.xyz/"
 languageCode = "zh-CN"
 title = "Jader"
 theme = "nofancy"
-
+copyright = "Copyright (c) 2017 - 2018, Tao YuJun; all rights reserved."
 
 [author]
     name = "Jader Tao"

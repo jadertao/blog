@@ -1,6 +1,6 @@
 ---
 title: "TypeScript 中继承的实现"
-date: 2018-12-19T15:21:55+08:00
+date: 2018-12-19
 draft: false
 ---
 # TypeScript 中继承的实现
