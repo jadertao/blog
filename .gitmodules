@@ -1,7 +1,0 @@
-[submodule "themes/nofancy"]
-	path = themes/nofancy
-	url = https://github.com/gizak/nofancy.git
-[submodule "public"]
-	path = public
-	url = git@github.com:jadetao/jadetao.github.io.git
-	branch = master
